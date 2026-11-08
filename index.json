@@ -1,0 +1,11 @@
+{
+  "org": "scikit-image",
+  "repo": "scikit-image-paper",
+  "versions": [
+    {
+      "commit": "e5971605b4cf328786d2a2ce29ece109553cd2f3",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:23:35.189640+00:00"
+    }
+  ]
+}
